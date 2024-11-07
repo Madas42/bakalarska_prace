@@ -1,6 +1,6 @@
 import tkinter as tk
+root = tk.Tk()
 from appUI import mainApp
 
-root = tk.Tk()
 app = mainApp(root)
 root.mainloop()

@@ -3,7 +3,6 @@ from tkinter import ttk, BooleanVar
 import matplotlib.pyplot as plt
 import networkx as nx
 import threading
-import viewFrame
 from matplotlib.backends.backend_agg import FigureCanvasAgg
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import generation.generate_hierarchical_LFR as gen
