@@ -1,13 +1,13 @@
 import tkinter as tk
 from tkinter import ttk
-from frames.GenerateFrame import GenerateFrame
-from frames.AnalyzeFrame import AnalyzeFrame
-from frames.ViewFrame import ViewFrame
+from frames.generateFrame import GenerateFrame
+from frames.analyzeFrame import AnalyzeFrame
+from frames.viewFrame import ViewFrame
 
 class mainApp:
     def __init__(self, root):
         root.title("Hierarchical communities")
-        root.geometry("900x600")
+        root.geometry("1050x650")
 
         # Configure the grid to expand with the window
         root.grid_rowconfigure(0, weight=1)

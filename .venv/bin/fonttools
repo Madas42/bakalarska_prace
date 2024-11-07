@@ -1,4 +1,4 @@
-#!/Users/jakubceska/Documents/VŠB/BP/bakalarska_prace/.venv/bin/python3.12
+#!/Users/jakubceska/Documents/VSB/BP/bakalarska_prace/.venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys

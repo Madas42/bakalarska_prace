@@ -1,5 +1,5 @@
 import tkinter as tk
-from AppUI import mainApp
+from appUI import mainApp
 
 root = tk.Tk()
 app = mainApp(root)
